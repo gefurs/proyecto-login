@@ -8,6 +8,7 @@
 
 
 Para levantar la API: abrir CLI en la carpeta FakeAPI y ejecutar **npm start**.
+
 Para levantar el proyecto: **npm start** en la raíz del proyecto.
 	
 
