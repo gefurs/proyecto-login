@@ -7,7 +7,9 @@ const request = async(credentials) => {
     const jwt = await axios.get(urlApi, credentials)
     // .then((response) => localStorage.setItem("token", response.token));
     .then(response => console.log(response.data));
+    console.log()
     return jwt;
+
 }
 
 export default request;
